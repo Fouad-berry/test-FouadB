@@ -24,3 +24,37 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.top-text{
+  font-weight: 800;
+  font-size: 40px;
+  color: #0D1163;
+}
+
+.highlight-text{
+  color: #ff8000;
+}
+
+.contact-button{
+  background-color: #ff8000 ;
+  cursor: pointer;
+}
+
+.contact-button:hover{
+  background-color: #ff8000;
+  color: white;
+  opacity: 0.8;
+}
+
+.know-more{
+  background-color: none;
+  border: 2px solid #0D1163;
+  color: #0D1163;
+  cursor: pointer;
+}
+
+.know-more:hover{
+  background-color: #0D1163;
+  color: white;
+  opacity: 0.8;
+}

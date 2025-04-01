@@ -1,0 +1,22 @@
+/* Navbar.css */
+.nav-link:hover {
+  color: #ff8000;
+  }
+  
+  .nav-button {
+  }
+  
+  .logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.6rem;
+  }
+  .contact-button{
+    background-color: #ff8000 ;
+    cursor: pointer;
+  }
+
+  .contact-button:hover{
+    background-color: #ff8000;
+    color: white;
+    opacity: 0.8;
+  }

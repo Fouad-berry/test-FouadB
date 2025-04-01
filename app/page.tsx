@@ -13,10 +13,10 @@ const Page = () => {
 
           <div className="w-full md:w-1/2 text-left md:mt-20">
             <h2 className="top-text mb-4">
-              <span className="highlight-text">L'immobilier neuf</span> n'a jamais été aussi simple
+              <span className="highlight-text">L&aqpos;immobilier neuf</span> n&apos;a jamais été aussi simple
             </h2>
             <p className="text-gray-700 mb-6">
-              Leader national du marché, Côté Neuf vous conseille, recherche, négocie, optimise votre financement, et vous accompagne jusqu'à la remise des clés. Le tout, gratuitement et en toute sérénité.
+              Leader national du marché, Côté Neuf vous conseille, recherche, négocie, optimise votre financement, et vous accompagne jusqu&apos;à la remise des clés. Le tout, gratuitement et en toute sérénité.
             </p>
 
             <div className="flex space-x-4">
